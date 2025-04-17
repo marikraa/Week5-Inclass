@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         SONARQUBE_SERVER = 'SonarQubeServer'  // The name of the SonarQube server configured in Jenkins
-        SONAR_TOKEN = 'sqa_902ad64d0703370fee676a4b9c578c84cc550199' // Store the token securely
+        SONAR_TOKEN = 'sqa_31d2c5fba79a09a02331806281aa1eeb0e80537a' // Store the token securely
     }
 
     stages {
